@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Companion</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Research Companion: LLM-Powered Research Summarizer</h1>
+
+    <h2>Upload Your Research Paper</h2>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input type="file" name="file" id="file" accept=".pdf" required>
+        <button type="submit">Upload</button>
+    </form>
+
+    <h2>Summary</h2>
+    <div id="summary"></div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            let formData = new FormData();
+            formData.append("file", document.getElementById('file').files[0]);
+
+            const response = await fetch('/upload', {
+                method: 'POST',
+                body: formData
+            });
+
+            const result = await response.json();
+            if (result.summary) {
+                document.getElementById('summary').innerText = result.summary;
+            } else {
+                document.getElementById('summary').innerText = "Error: " + result.error;
+            }
+        });
+    </script>
+</body>
+</html>
