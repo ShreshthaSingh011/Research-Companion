@@ -34,3 +34,14 @@ Whether you're a student, researcher, or professional, **Research Companion** st
    ```bash
    git clone https://github.com/ShreshthaSingh011/research-companion.git
 
+## Outputs:
+![image](https://github.com/user-attachments/assets/5e2394e2-9c0d-41df-9786-0203d0973822)
+
+![image](https://github.com/user-attachments/assets/36d02d56-569c-4bd5-a38c-1628f3b23a5f)
+
+![image](https://github.com/user-attachments/assets/e92ab0ff-3e3b-42ec-a20c-9c6584ca52da)
+
+![image](https://github.com/user-attachments/assets/fc58f9fb-bcfa-4bb8-beb2-d553bd6c1fbb)
+
+![image](https://github.com/user-attachments/assets/b4d7a860-feb0-4a21-946c-607459a822bf)
+
