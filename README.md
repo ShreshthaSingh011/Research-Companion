@@ -35,7 +35,8 @@ Whether you're a student, researcher, or professional, **Research Companion** st
    git clone https://github.com/ShreshthaSingh011/research-companion.git
 
 ## Outputs:
-![image](https://github.com/user-attachments/assets/5e2394e2-9c0d-41df-9786-0203d0973822)
+
+![image](https://github.com/user-attachments/assets/1f96384d-9d32-4f90-98c7-baf314f12faf)
 
 ![image](https://github.com/user-attachments/assets/36d02d56-569c-4bd5-a38c-1628f3b23a5f)
 
