@@ -38,11 +38,14 @@ Whether you're a student, researcher, or professional, **Research Companion** st
 
 ![image](https://github.com/user-attachments/assets/1f96384d-9d32-4f90-98c7-baf314f12faf)
 
-![image](https://github.com/user-attachments/assets/36d02d56-569c-4bd5-a38c-1628f3b23a5f)
+![Screenshot 2025-02-18 152545](https://github.com/user-attachments/assets/68cf2ddb-6d8d-4e0c-a3fe-d86b4e8f5706)
 
-![image](https://github.com/user-attachments/assets/e92ab0ff-3e3b-42ec-a20c-9c6584ca52da)
+![Screenshot 2025-02-18 152652](https://github.com/user-attachments/assets/160c0058-97dd-42bb-8f16-4e637222941a)
 
-![image](https://github.com/user-attachments/assets/fc58f9fb-bcfa-4bb8-beb2-d553bd6c1fbb)
+![Screenshot 2025-02-18 152710](https://github.com/user-attachments/assets/615130be-e8cf-456f-93d8-2ee6ebbb91d9)
 
-![image](https://github.com/user-attachments/assets/b4d7a860-feb0-4a21-946c-607459a822bf)
+![Screenshot 2025-02-18 160449](https://github.com/user-attachments/assets/24cdd18c-228a-44fb-b108-2accc6e4d48f)
+
+
+
 
